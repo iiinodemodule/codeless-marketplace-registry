@@ -1,2 +1,20 @@
 [
+  {
+    "id": "mp_20260420_164819",
+    "submission_id": "20260420_161521",
+    "name": "TestMyNode",
+    "display_name": "TestMyNode",
+    "description": "影像亮度調整",
+    "category": "影像處理",
+    "version": "1.0.0",
+    "developer": "IIIagentworker",
+    "github_username": "IIIagentworker",
+    "repo_url": "https://github.com/iiinodemodule/TestMyNode",
+    "install_url": "https://github.com/iiinodemodule/TestMyNode",
+    "tags": [
+      "影像處理"
+    ],
+    "published_at": "2026-04-20T16:48:19.932709",
+    "downloads": 0
+  }
 ]
