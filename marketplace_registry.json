@@ -34,5 +34,23 @@
     ],
     "published_at": "2026-04-27T14:58:38.291513",
     "downloads": 0
+  },
+  {
+    "id": "mp_20260427_163958",
+    "submission_id": "20260427_163632",
+    "name": "iii5080Node_20260427_1",
+    "display_name": "iii5080Node_20260427_1",
+    "description": "6666",
+    "category": "影像處理",
+    "version": "1.0.0",
+    "developer": "IIIagentworker",
+    "github_username": "IIIagentworker",
+    "repo_url": "https://github.com/iiinodemodule/iii5080Node_20260427_1",
+    "install_url": "https://github.com/iiinodemodule/iii5080Node_20260427_1",
+    "tags": [
+      "影像處理"
+    ],
+    "published_at": "2026-04-27T16:39:58.798918",
+    "downloads": 0
   }
 ]
