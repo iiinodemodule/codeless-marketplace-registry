@@ -52,5 +52,23 @@
     ],
     "published_at": "2026-04-27T16:39:58.798918",
     "downloads": 0
+  },
+  {
+    "id": "mp_20260428_163451",
+    "submission_id": "20260428_163112",
+    "name": "iiiNode04281111",
+    "display_name": "iiiNode04281111",
+    "description": "處理影像亮度調整",
+    "category": "影像處理",
+    "version": "1.0.0",
+    "developer": "IIIagentworker",
+    "github_username": "IIIagentworker",
+    "repo_url": "https://github.com/iiinodemodule/iiiNode04281111",
+    "install_url": "https://github.com/iiinodemodule/iiiNode04281111",
+    "tags": [
+      "影像處理"
+    ],
+    "published_at": "2026-04-28T16:34:51.877031",
+    "downloads": 0
   }
 ]
