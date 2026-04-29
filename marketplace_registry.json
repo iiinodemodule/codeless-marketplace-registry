@@ -70,5 +70,23 @@
     ],
     "published_at": "2026-04-28T16:34:51.877031",
     "downloads": 0
+  },
+  {
+    "id": "mp_20260429_164658",
+    "submission_id": "20260429_164234",
+    "name": "iiinode20260429",
+    "display_name": "iiinode20260429",
+    "description": "dddd",
+    "category": "影像處理",
+    "version": "1.0.0",
+    "developer": "IIIagentworker",
+    "github_username": "IIIagentworker",
+    "repo_url": "https://github.com/iiinodemodule/iiinode20260429",
+    "install_url": "https://github.com/iiinodemodule/iiinode20260429",
+    "tags": [
+      "影像處理"
+    ],
+    "published_at": "2026-04-29T16:46:58.735443",
+    "downloads": 0
   }
 ]
