@@ -88,5 +88,41 @@
     ],
     "published_at": "2026-04-29T16:46:58.735443",
     "downloads": 0
+  },
+  {
+    "id": "mp_20260501_041907",
+    "submission_id": "task_20260430_192207_6b5fb0__user_20260430_182146_81737911",
+    "name": "0430自定節點名稱123_0430_192207",
+    "display_name": "0430自定節點名稱123_0430_192207",
+    "description": "66",
+    "category": "",
+    "version": "1.0.0",
+    "developer": "interman123",
+    "github_username": "",
+    "repo_url": "https://github.com/iiinodemodule/0430123_0430_192207",
+    "install_url": "https://github.com/iiinodemodule/0430123_0430_192207",
+    "tags": [
+      "0430_192207自訂演算法/T"
+    ],
+    "published_at": "2026-05-01T04:19:07.171544",
+    "downloads": 0
+  },
+  {
+    "id": "mp_20260501_071503",
+    "submission_id": "task_20260501_070001_490206__user_20260430_182146_81737911",
+    "name": "0501亮度演算法_0501_070000",
+    "display_name": "0501亮度演算法_0501_070000",
+    "description": "",
+    "category": "",
+    "version": "1.0.0",
+    "developer": "interman123",
+    "github_username": "",
+    "repo_url": "https://github.com/iiinodemodule/0501_0501_070000",
+    "install_url": "https://github.com/iiinodemodule/0501_0501_070000",
+    "tags": [
+      "0501_070000自訂演算法/未分類"
+    ],
+    "published_at": "2026-05-01T07:15:03.085234",
+    "downloads": 0
   }
 ]
