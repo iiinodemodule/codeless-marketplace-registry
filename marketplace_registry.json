@@ -124,5 +124,23 @@
     ],
     "published_at": "2026-05-04T14:06:09.446982",
     "downloads": 0
+  },
+  {
+    "id": "mp_20260504_141828",
+    "submission_id": "task_20260501_070001_490206__user_20260430_182146_81737911",
+    "name": "0501亮度演算法_0501_070000",
+    "display_name": "0501亮度演算法_0501_070000",
+    "description": "",
+    "category": "",
+    "version": "1.0.0",
+    "developer": "interman123",
+    "github_username": "",
+    "repo_url": "https://github.com/iiinodemodule/0501_0501_070000",
+    "install_url": "https://github.com/iiinodemodule/0501_0501_070000",
+    "tags": [
+      "0501_070000自訂演算法/未分類"
+    ],
+    "published_at": "2026-05-04T14:18:28.843908",
+    "downloads": 0
   }
 ]
