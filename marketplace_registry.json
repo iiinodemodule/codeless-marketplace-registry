@@ -108,29 +108,11 @@
     "downloads": 0
   },
   {
-    "id": "mp_20260501_071503",
-    "submission_id": "task_20260501_070001_490206__user_20260430_182146_81737911",
-    "name": "0501亮度演算法_0501_070000",
-    "display_name": "0501亮度演算法_0501_070000",
-    "description": "",
-    "category": "",
-    "version": "1.0.0",
-    "developer": "interman123",
-    "github_username": "",
-    "repo_url": "https://github.com/iiinodemodule/0501_0501_070000",
-    "install_url": "https://github.com/iiinodemodule/0501_0501_070000",
-    "tags": [
-      "0501_070000自訂演算法/未分類"
-    ],
-    "published_at": "2026-05-01T07:15:03.085234",
-    "downloads": 0
-  },
-  {
-    "id": "mp_20260501_072730",
+    "id": "mp_20260504_140609",
     "submission_id": "task_20260501_042043_6ba145__user_20260430_182146_81737911",
     "name": "0501自定節點名稱_0501_042043",
     "display_name": "0501自定節點名稱_0501_042043",
-    "description": "",
+    "description": "拜託",
     "category": "",
     "version": "1.0.0",
     "developer": "interman123",
@@ -140,25 +122,7 @@
     "tags": [
       "0501_042043自訂演算法/T"
     ],
-    "published_at": "2026-05-01T07:27:30.646431",
-    "downloads": 0
-  },
-  {
-    "id": "mp_20260504_164249",
-    "submission_id": "task_20260504_161712_7665ad__user_20260504_152522_32ba0c24",
-    "name": "0504自定節點名稱_0504_161711",
-    "display_name": "0504自定節點名稱_0504_161711",
-    "description": "0504Test",
-    "category": "",
-    "version": "1.0.0",
-    "developer": "stu2488",
-    "github_username": "",
-    "repo_url": "https://github.com/iiinodemodule/0504_0504_161711",
-    "install_url": "https://github.com/iiinodemodule/0504_0504_161711",
-    "tags": [
-      "0504_161711自訂演算法/未分類"
-    ],
-    "published_at": "2026-05-04T16:42:49.300788",
+    "published_at": "2026-05-04T14:06:09.446982",
     "downloads": 0
   }
 ]
