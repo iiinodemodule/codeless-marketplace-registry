@@ -124,5 +124,23 @@
     ],
     "published_at": "2026-05-01T07:15:03.085234",
     "downloads": 0
+  },
+  {
+    "id": "mp_20260504_140609",
+    "submission_id": "task_20260501_042043_6ba145__user_20260430_182146_81737911",
+    "name": "0501自定節點名稱_0501_042043",
+    "display_name": "0501自定節點名稱_0501_042043",
+    "description": "拜託",
+    "category": "",
+    "version": "1.0.0",
+    "developer": "interman123",
+    "github_username": "",
+    "repo_url": "https://github.com/iiinodemodule/0501_0501_042043",
+    "install_url": "https://github.com/iiinodemodule/0501_0501_042043",
+    "tags": [
+      "0501_042043自訂演算法/T"
+    ],
+    "published_at": "2026-05-04T14:06:09.446982",
+    "downloads": 0
   }
 ]
