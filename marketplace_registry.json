@@ -1,5 +1,95 @@
 [
   {
+    "id": "mp_20260420_164819",
+    "submission_id": "20260420_161521",
+    "name": "TestMyNode",
+    "display_name": "TestMyNode",
+    "description": "影像亮度調整",
+    "category": "影像處理",
+    "version": "1.0.0",
+    "developer": "IIIagentworker",
+    "github_username": "IIIagentworker",
+    "repo_url": "https://github.com/iiinodemodule/TestMyNode",
+    "install_url": "https://github.com/iiinodemodule/TestMyNode",
+    "tags": [
+      "影像處理"
+    ],
+    "published_at": "2026-04-20T16:48:19.932709",
+    "downloads": 0
+  },
+  {
+    "id": "mp_20260427_145838",
+    "submission_id": "20260427_145134",
+    "name": "iii5080Node_20260427",
+    "display_name": "iii5080Node_20260427",
+    "description": "影像調整亮度",
+    "category": "影像處理",
+    "version": "1.0.0",
+    "developer": "IIIagentworker",
+    "github_username": "IIIagentworker",
+    "repo_url": "https://github.com/iiinodemodule/iii5080Node_20260427",
+    "install_url": "https://github.com/iiinodemodule/iii5080Node_20260427",
+    "tags": [
+      "影像處理"
+    ],
+    "published_at": "2026-04-27T14:58:38.291513",
+    "downloads": 0
+  },
+  {
+    "id": "mp_20260427_163958",
+    "submission_id": "20260427_163632",
+    "name": "iii5080Node_20260427_1",
+    "display_name": "iii5080Node_20260427_1",
+    "description": "6666",
+    "category": "影像處理",
+    "version": "1.0.0",
+    "developer": "IIIagentworker",
+    "github_username": "IIIagentworker",
+    "repo_url": "https://github.com/iiinodemodule/iii5080Node_20260427_1",
+    "install_url": "https://github.com/iiinodemodule/iii5080Node_20260427_1",
+    "tags": [
+      "影像處理"
+    ],
+    "published_at": "2026-04-27T16:39:58.798918",
+    "downloads": 0
+  },
+  {
+    "id": "mp_20260428_163451",
+    "submission_id": "20260428_163112",
+    "name": "iiiNode04281111",
+    "display_name": "iiiNode04281111",
+    "description": "處理影像亮度調整",
+    "category": "影像處理",
+    "version": "1.0.0",
+    "developer": "IIIagentworker",
+    "github_username": "IIIagentworker",
+    "repo_url": "https://github.com/iiinodemodule/iiiNode04281111",
+    "install_url": "https://github.com/iiinodemodule/iiiNode04281111",
+    "tags": [
+      "影像處理"
+    ],
+    "published_at": "2026-04-28T16:34:51.877031",
+    "downloads": 0
+  },
+  {
+    "id": "mp_20260429_164658",
+    "submission_id": "20260429_164234",
+    "name": "iiinode20260429",
+    "display_name": "iiinode20260429",
+    "description": "dddd",
+    "category": "影像處理",
+    "version": "1.0.0",
+    "developer": "IIIagentworker",
+    "github_username": "IIIagentworker",
+    "repo_url": "https://github.com/iiinodemodule/iiinode20260429",
+    "install_url": "https://github.com/iiinodemodule/iiinode20260429",
+    "tags": [
+      "影像處理"
+    ],
+    "published_at": "2026-04-29T16:46:58.735443",
+    "downloads": 0
+  },
+  {
     "id": "mp_20260501_041907",
     "submission_id": "task_20260430_192207_6b5fb0__user_20260430_182146_81737911",
     "name": "0430自定節點名稱123_0430_192207",
@@ -15,6 +105,78 @@
       "0430_192207自訂演算法/T"
     ],
     "published_at": "2026-05-01T04:19:07.171544",
+    "downloads": 0
+  },
+  {
+    "id": "mp_20260501_071503",
+    "submission_id": "task_20260501_070001_490206__user_20260430_182146_81737911",
+    "name": "0501亮度演算法_0501_070000",
+    "display_name": "0501亮度演算法_0501_070000",
+    "description": "",
+    "category": "",
+    "version": "1.0.0",
+    "developer": "interman123",
+    "github_username": "",
+    "repo_url": "https://github.com/iiinodemodule/0501_0501_070000",
+    "install_url": "https://github.com/iiinodemodule/0501_0501_070000",
+    "tags": [
+      "0501_070000自訂演算法/未分類"
+    ],
+    "published_at": "2026-05-01T07:15:03.085234",
+    "downloads": 0
+  },
+  {
+    "id": "mp_20260501_072730",
+    "submission_id": "task_20260501_042043_6ba145__user_20260430_182146_81737911",
+    "name": "0501自定節點名稱_0501_042043",
+    "display_name": "0501自定節點名稱_0501_042043",
+    "description": "",
+    "category": "",
+    "version": "1.0.0",
+    "developer": "interman123",
+    "github_username": "",
+    "repo_url": "https://github.com/iiinodemodule/0501_0501_042043",
+    "install_url": "https://github.com/iiinodemodule/0501_0501_042043",
+    "tags": [
+      "0501_042043自訂演算法/T"
+    ],
+    "published_at": "2026-05-01T07:27:30.646431",
+    "downloads": 0
+  },
+  {
+    "id": "mp_20260504_164249",
+    "submission_id": "task_20260504_161712_7665ad__user_20260504_152522_32ba0c24",
+    "name": "0504自定節點名稱_0504_161711",
+    "display_name": "0504自定節點名稱_0504_161711",
+    "description": "0504Test",
+    "category": "",
+    "version": "1.0.0",
+    "developer": "stu2488",
+    "github_username": "",
+    "repo_url": "https://github.com/iiinodemodule/0504_0504_161711",
+    "install_url": "https://github.com/iiinodemodule/0504_0504_161711",
+    "tags": [
+      "0504_161711自訂演算法/未分類"
+    ],
+    "published_at": "2026-05-04T16:42:49.300788",
+    "downloads": 0
+  },
+  {
+    "id": "mp_20260515_161624",
+    "submission_id": "task_20260515_155857_1a1dd0__user_20260515_154806_527803b9",
+    "name": "0515自定節點名稱PCA_1_0515_155857",
+    "display_name": "0515自定節點名稱PCA_1_0515_155857",
+    "description": "123123",
+    "category": "",
+    "version": "1.0.0",
+    "developer": "teacher1",
+    "github_username": "",
+    "repo_url": "https://github.com/iiinodemodule/0515PCA_1_0515_155857",
+    "install_url": "https://github.com/iiinodemodule/0515PCA_1_0515_155857",
+    "tags": [
+      "0515_155857自訂演算法/PCA1"
+    ],
+    "published_at": "2026-05-15T16:16:24.758409",
     "downloads": 0
   }
 ]
