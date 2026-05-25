@@ -178,5 +178,23 @@
     ],
     "published_at": "2026-05-15T16:16:24.758409",
     "downloads": 0
+  },
+  {
+    "id": "mp_20260525_163353",
+    "submission_id": "task_20260525_162649_804f51__user_20260515_154806_527803b9",
+    "name": "0525光線演算法_0525_162648",
+    "display_name": "0525光線演算法_0525_162648",
+    "description": "修好摟",
+    "category": "",
+    "version": "1.0.1",
+    "developer": "teacher1",
+    "github_username": "",
+    "repo_url": "https://github.com/iiinodemodule/0525_0525_162648",
+    "install_url": "https://github.com/iiinodemodule/0525_0525_162648",
+    "tags": [
+      "0525_162648自訂演算法/光線變化"
+    ],
+    "published_at": "2026-05-25T16:33:53.534861",
+    "downloads": 0
   }
 ]
