@@ -126,24 +126,6 @@
     "downloads": 0
   },
   {
-    "id": "mp_20260504_164249",
-    "submission_id": "task_20260504_161712_7665ad__user_20260504_152522_32ba0c24",
-    "name": "0504自定節點名稱_0504_161711",
-    "display_name": "0504自定節點名稱_0504_161711",
-    "description": "0504Test",
-    "category": "",
-    "version": "1.0.0",
-    "developer": "stu2488",
-    "github_username": "",
-    "repo_url": "https://github.com/iiinodemodule/0504_0504_161711",
-    "install_url": "https://github.com/iiinodemodule/0504_0504_161711",
-    "tags": [
-      "0504_161711自訂演算法/未分類"
-    ],
-    "published_at": "2026-05-04T16:42:49.300788",
-    "downloads": 0
-  },
-  {
     "id": "mp_20260515_161624",
     "submission_id": "task_20260515_155857_1a1dd0__user_20260515_154806_527803b9",
     "name": "0515自定節點名稱PCA_1_0515_155857",
